@@ -103,3 +103,34 @@
 </a>
 
 </div>
+
+<div align="center">
+
+## 📬 Let’s Connect – Don’t be a stranger!
+
+✨ Whether it's a collab, opportunity, or just saying hey — I’m one click away 👇
+
+<!-- Email -->
+<a href="mailto:karimmustafa495@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-karimmustafa495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/karim-mustafa-949207318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Karim%20Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<!-- Optional: Add Facebook / Twitter -->
+<!--
+<a href="https://facebook.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-YourUsername-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-@YourUsername-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+-->
+
+</div>
+
