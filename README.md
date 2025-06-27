@@ -6,14 +6,20 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
 </div>
+<div align="center">
 
-## 👾 About Me
+<h2 style="font-family: 'Courier New', Courier, monospace;">👾 About Me</h2>
 
-🧠 Geeky by nature, developer by choice.  
-🎓 CS Grad from Alexandria University (yeah, I'm that guy)  
-🔥 ITI Open Source Trainee – cooking cool stuff daily  
-🌍 From the heart of Alex, but ready to fly anywhere  
-🎯 Love building apps that actually **feel good** to use  
-🛠️ Obsessed with clean code, fast performance, and great UX  
+<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
+🧠 Geeky by nature, developer by choice. <br>
+🎓 CS Grad from Alexandria University (yeah, I'm that guy) <br>
+🔥 ITI Open Source Trainee – cooking cool stuff daily <br>
+🌍 From the heart of Alex, but ready to fly anywhere <br>
+🎯 Love building apps that actually <b>feel good</b> to use <br>
+🛠️ Obsessed with clean code, fast performance, and great UX <br>
 🎧 Code + Lo-Fi beats = perfect night
+</p>
+
+</div>
+
 
