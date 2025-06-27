@@ -82,51 +82,24 @@
 </div>
 
 
+
 <div align="center">
 
-## 🔥 Featured Projects
+## 📄 My CV – Want to know me better?
 
-<!-- Graduation Project -->
-<a href="https://github.com/karimmustafa11/Graduation-Project">
-  <img src="https://img.shields.io/badge/🎓 Graduation Project-HTML/CSS/JS/PHP-blueviolet?style=for-the-badge" />
+🎯 Take a closer look at my journey, skills, and projects in one neat PDF.
+
+<!-- View CV Button -->
+<a href="https://github.com/karimmustafa11/karimmustafa11/raw/main/KarimMustafa_CV.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV" />
 </a>
-<br />
-<sub>💊 A platform to connect pharmacies & share medicine availability.</sub>
 
-<br><br>
+<!-- Spacer -->
+<span>&nbsp;&nbsp;</span>
 
-<!-- Meem -->
-<a href="https://github.com/karimmustafa11/Meem">
-  <img src="https://img.shields.io/badge/🛒 Meem-E--Commerce%20Platform-orange?style=for-the-badge" />
+<!-- Download CV Button -->
+<a href="https://github.com/karimmustafa11/karimmustafa11/raw/main/KarimMustafa_CV.pdf" download>
+  <img src="https://img.shields.io/badge/⬇️%20Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
 </a>
-<br />
-<sub>🛍️ Built using Angular & Tailwind with full admin + user experience.</sub>
-
-<br><br>
-
-<!-- Mini Social App -->
-<a href="https://github.com/karimmustafa11/Mini-Social-App">
-  <img src="https://img.shields.io/badge/📢 Mini Social App-React/Vite/JSONServer-green?style=for-the-badge" />
-</a>
-<br />
-<sub>🧵 Lightweight social platform with full post CRUD control.</sub>
-
-<br><br>
-
-<!-- Real-time Chat -->
-<a href="https://github.com/karimmustafa11/Real-time_Chat_Room">
-  <img src="https://img.shields.io/badge/💬 Real-time Chat Room-Socket.io/Node.js-yellow?style=for-the-badge" />
-</a>
-<br />
-<sub>⚡ Live chat experience with WebSockets in action.</sub>
-
-<br><br>
-
-<!-- Travelo -->
-<a href="https://github.com/karimmustafa11/Travelo">
-  <img src="https://img.shields.io/badge/✈️ Travelo-VanillaJS/HTML/CSS-lightblue?style=for-the-badge" />
-</a>
-<br />
-<sub>🌍 Travel booking UI with auto-location suggestions.</sub>
 
 </div>
