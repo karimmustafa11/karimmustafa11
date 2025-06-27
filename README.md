@@ -81,3 +81,52 @@
 
 </div>
 
+
+<div align="center">
+
+## 🔥 Featured Projects
+
+<!-- Graduation Project -->
+<a href="https://github.com/karimmustafa11/Graduation-Project">
+  <img src="https://img.shields.io/badge/🎓 Graduation Project-HTML/CSS/JS/PHP-blueviolet?style=for-the-badge" />
+</a>
+<br />
+<sub>💊 A platform to connect pharmacies & share medicine availability.</sub>
+
+<br><br>
+
+<!-- Meem -->
+<a href="https://github.com/karimmustafa11/Meem">
+  <img src="https://img.shields.io/badge/🛒 Meem-E--Commerce%20Platform-orange?style=for-the-badge" />
+</a>
+<br />
+<sub>🛍️ Built using Angular & Tailwind with full admin + user experience.</sub>
+
+<br><br>
+
+<!-- Mini Social App -->
+<a href="https://github.com/karimmustafa11/Mini-Social-App">
+  <img src="https://img.shields.io/badge/📢 Mini Social App-React/Vite/JSONServer-green?style=for-the-badge" />
+</a>
+<br />
+<sub>🧵 Lightweight social platform with full post CRUD control.</sub>
+
+<br><br>
+
+<!-- Real-time Chat -->
+<a href="https://github.com/karimmustafa11/Real-time_Chat_Room">
+  <img src="https://img.shields.io/badge/💬 Real-time Chat Room-Socket.io/Node.js-yellow?style=for-the-badge" />
+</a>
+<br />
+<sub>⚡ Live chat experience with WebSockets in action.</sub>
+
+<br><br>
+
+<!-- Travelo -->
+<a href="https://github.com/karimmustafa11/Travelo">
+  <img src="https://img.shields.io/badge/✈️ Travelo-VanillaJS/HTML/CSS-lightblue?style=for-the-badge" />
+</a>
+<br />
+<sub>🌍 Travel booking UI with auto-location suggestions.</sub>
+
+</div>
