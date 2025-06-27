@@ -7,11 +7,13 @@
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
 </div>
 
-## 👨‍💻 About Me
+## 👾 About Me
 
-🎓 **B.Sc. in Computer Science** – Alexandria University (GPA: 3.34)  
-📍 Based in **Alexandria**, open to relocation.  
-🚀 Currently: Finishing my 9-month diploma at **ITI Open Source**  
-💻 Building apps that are **fast**, **scalable**, and **beautiful**
+🧠 Geeky by nature, developer by choice.  
+🎓 CS Grad from Alexandria University (yeah, I'm that guy)  
+🔥 ITI Open Source Trainee – cooking cool stuff daily  
+🌍 From the heart of Alex, but ready to fly anywhere  
+🎯 Love building apps that actually **feel good** to use  
+🛠️ Obsessed with clean code, fast performance, and great UX  
+🎧 Code + Lo-Fi beats = perfect night
 
----
