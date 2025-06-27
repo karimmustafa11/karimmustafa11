@@ -89,15 +89,15 @@
 
 🎯 Take a closer look at my journey, skills, and projects in one neat PDF.
 
-<!-- View CV Button -->
-<a href="https://github.com/karimmustafa11/karimmustafa11/raw/main/KarimMustafa_CV.pdf" target="_blank">
+<!-- View CV Button (Blob view) -->
+<a href="https://github.com/karimmustafa11/karimmustafa11/blob/main/KarimMustafa_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/View%20CV-Click%20Here-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="View CV" />
 </a>
 
 <!-- Spacer -->
 <span>&nbsp;&nbsp;</span>
 
-<!-- Download CV Button -->
+<!-- Download CV Button (Raw link) -->
 <a href="https://github.com/karimmustafa11/karimmustafa11/raw/main/KarimMustafa_CV.pdf" download>
   <img src="https://img.shields.io/badge/⬇️%20Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
 </a>
