@@ -6,3 +6,12 @@
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
 </div>
+
+## 👨‍💻 About Me
+
+🎓 **B.Sc. in Computer Science** – Alexandria University (GPA: 3.34)  
+📍 Based in **Alexandria**, open to relocation.  
+🚀 Currently: Finishing my 9-month diploma at **ITI Open Source**  
+💻 Building apps that are **fast**, **scalable**, and **beautiful**
+
+---
