@@ -1,10 +1,11 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Karim+Mustafa+%F0%9F%92%BB+%7C+I+write+code+that+ships+%F0%9F%92%A5;Full+Stack+Developer+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Lover+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Karim+Mustafa+%F0%9F%92%BB+%7C+I+write+code+that+ships+%F0%9F%92%A5;Full+Stack+Developer+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Lover+%E2%9C%A8" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" alt="Dev Vibes GIF" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
 </div>
+
 
 <div align="center">
 
@@ -76,15 +77,18 @@
 
 🎯 Check out my story, one page at a time.
 
+<table><tr>
+<td>
 <a href="https://drive.google.com/file/d/12fQFaAX79aeHkXm6PEJer9kny7YbCe8l/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/View%20CV-Online-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="View CV" />
 </a>
-
-<span>&nbsp;&nbsp;</span>
-
+</td>
+<td>
 <a href="https://github.com/karimmustafa11/karimmustafa11/raw/main/KarimMustafa_CV.pdf" download>
   <img src="https://img.shields.io/badge/⬇️%20Download-CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
 </a>
+</td>
+</tr></table>
 
 </div>
 
