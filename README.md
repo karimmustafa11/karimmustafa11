@@ -1,41 +1,50 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Karim+Mustafa+%E2%9D%A4%EF%B8%8F;Full+Stack+Developer+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Lover+%E2%9C%A8" alt="Typing SVG" />
-</h1>
 
+<!-- 🖥️ HEADER -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi%2C+I'm+Karim+Mustafa+%F0%9F%92%BB+%7C+I+write+code+that+ships+%F0%9F%92%A5;Full+Stack+Developer+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Tech+Lover+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
 </div>
 
-
+<!-- 👾 ABOUT ME -->
 <div align="center">
-
 <h2 style="font-family: 'Courier New', Courier, monospace;">👾 About Me</h2>
 
 <p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
 🧠 Geeky by nature, developer by choice.
 </p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🎓 CS Grad from Alexandria University (yeah, I'm that guy)
-</p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🔥 ITI Open Source Trainee – cooking cool stuff daily
-</p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🌍 From the heart of Alex, but ready to fly anywhere
-</p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🎯 Love building apps that actually <b>feel good</b> to use
-</p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🛠️ Obsessed with clean code, fast performance, and great UX
-</p>
-<p style="font-family: 'Comic Sans MS', cursive, sans-serif; font-size: 16px;">
-🎧 Code + Lo-Fi beats = perfect night
-</p>
+<p>🎓 CS Grad from Alexandria University</p>
+<p>🔥 ITI Open Source Trainee – cooking cool stuff daily</p>
+<p>🌍 Based in Alexandria – Ready to fly anywhere</p>
+<p>🎯 Building fast, clean, scalable web apps</p>
+<p>🛠️ Clean Code + UX Lover</p>
+<p>🎧 Code + Lo-Fi beats = Perfect night</p>
+</div>
+
+<!-- 📬 CONTACT -->
+<div align="center">
+
+## 📬 Let’s Connect – Don’t be a stranger!
+
+✨ Whether it's a collab, opportunity, or just saying hey — I’m one click away 👇
+
+<a href="mailto:karimmustafa495@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-karimmustafa495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/karim-mustafa-949207318/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Karim%20Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/karimmustafa11" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-karimmustafa11-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
+<!-- 🧠 SKILLS -->
 <div align="center">
 
 ## 🧠 Skills & Tools
@@ -44,7 +53,6 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 
@@ -69,9 +77,9 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" />
-
 </div>
 
+<!-- 📄 CV -->
 <div align="center">
 
 ## 📄 My CV – Want to know me better?
@@ -90,72 +98,33 @@
 </a>
 </td>
 </tr></table>
-
 </div>
 
-<div align="center">
-
-## 📬 Let’s Connect – Don’t be a stranger!
-
-✨ Whether it's a collab, opportunity, or just saying hey — I’m one click away 👇
-
-<table><tr>
-<td>
-<a href="mailto:karimmustafa495@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-karimmustafa495@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</td>
-
-<td>
-<a href="https://www.linkedin.com/in/karim-mustafa-949207318/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Karim%20Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-</td>
-</tr></table>
-</div>
+<!-- 📊 GITHUB STATS -->
 <div align="center">
 
 ## 📊 GitHub Stats – Fueled by 🔥 & ☕️
 
-<!-- GitHub Stats Panel -->
 <a href="https://github.com/karimmustafa11">
   <img src="https://github-readme-stats.vercel.app/api?username=karimmustafa11&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=12&custom_title=Karim%20Mustafa's%20GitHub%20Stats" alt="GitHub Stats" />
 </a>
 
-<!-- GitHub Streak -->
 <a href="https://github.com/karimmustafa11">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karimmustafa11&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
-<!-- Most Used Languages -->
 <a href="https://github.com/karimmustafa11">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmustafa11&layout=compact&theme=tokyonight&langs_count=8&border_radius=12&hide=html" alt="Top Languages" />
 </a>
 
-<!-- Vibes Quote -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+is+key+%F0%9F%94%91;Code.+Commit.+Repeat.+%F0%9F%9A%80" alt="Typing Vibe" />
-
 </div>
 
----
-<!-- 🚀 End Banner Section -->
+<!-- 🚀 END FOOTER -->
 <div align="center">
-
-<!-- Typing Thank You -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far!+You're+awesome+%F0%9F%91%8C;Stay+curious+.+Keep+building+.+Never+settle+%F0%9F%9A%80" alt="Thanks Typing" />
-
-<!-- Footer Capsule with New Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=00ffe0,9333ea,3b82f6&height=120&section=footer&text=See+You+Around!&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Soft Footer" />
-
-<!-- Signature -->
-<p style="margin-top: -10px;">
+<p>
   <strong>👑 Made with zero sleep & 100% caffeine by <span style="color:#00ffe0">Karim Mustafa</span> ⚡</strong><br/>
   <em>Follow your code, and it will follow your dream 🌌</em>
 </p>
-
 </div>
-
-
-
-
-
