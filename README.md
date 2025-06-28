@@ -139,15 +139,24 @@
 
 ---
 
-<!-- 🔻 Footer Section -->
-<p align="center">
-  ─── ･ ｡ﾟ☆: *.💻 .* :☆ﾟ. ───
+<!-- 🚀 End Banner Section -->
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far!+You're+awesome+%F0%9F%91%8C;Stay+curious+.+Keep+building+.+Never+settle+%F0%9F%9A%80" alt="Thanks Typing" />
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=150&section=footer&text=See+You+Around!&fontColor=ffffff&fontSize=30&animation=twinkling" alt="Soft Footer" />
+
+<br/>
+
+<p>
+  <strong>👑 Made with zero sleep & 100% caffeine by <span style="color:#00ffe0">Karim Mustafa</span> ⚡</strong><br/>
+  <em>Follow your code, and it will follow your dream 🌌</em>
 </p>
 
-<p align="center">
-  <strong>Thanks for visiting!</strong><br/>
-  Made with ❤️ by <strong>Karim Mustafa</strong> • Keep pushing pixels & shipping code 🚀
-</p>
+</div>
+
 
 
 
