@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="200" alt="Coding Gif" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJyZzNwYWp1Z2dheGhrajB1bjl1dGg1ajNxdTZqNnR0OW1qejhneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dh5q0sShxgp13DwrvG/giphy.gif" width="200" alt="Coding Gif" />
 </div>
 
 <!-- 👾 ABOUT ME -->
