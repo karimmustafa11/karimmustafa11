@@ -114,27 +114,36 @@
 </tr></table>
 </div>
 
-
 <div align="center">
 
-## 📊 GitHub Stats – Powered by caffeine ☕
+## 📊 GitHub Stats – Fueled by 🔥 & ☕️
 
+<!-- GitHub Stats Panel -->
 <a href="https://github.com/karimmustafa11">
   <img src="https://github-readme-stats.vercel.app/api?username=karimmustafa11&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=12&custom_title=Karim%20Mustafa's%20GitHub%20Stats" alt="GitHub Stats" />
 </a>
 
-<br/>
+<!-- Spacer -->
+<br><br>
 
+<!-- GitHub Streak -->
 <a href="https://github.com/karimmustafa11">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimmustafa11&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimmustafa11&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
 
-<br/>
+<!-- Spacer -->
+<br><br>
 
+<!-- Most Used Languages -->
 <a href="https://github.com/karimmustafa11">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmustafa11&layout=compact&theme=tokyonight&langs_count=6&border_radius=12" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmustafa11&layout=compact&theme=tokyonight&langs_count=8&border_radius=12&hide=html" alt="Top Languages" />
 </a>
+
+<!-- Vibes Quote -->
+<br><br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+is+key+%F0%9F%94%91;Code.+Commit.+Repeat.+%F0%9F%9A%80" alt="Typing Vibe" />
 
 </div>
+
 
 
