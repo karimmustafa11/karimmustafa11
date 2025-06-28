@@ -140,11 +140,12 @@
 ---
 
 <!-- 🔻 Footer Section -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" alt="footer" />
-</div>
+<p align="center">
+  ─── ･ ｡ﾟ☆: *.💻 .* :☆ﾟ. ───
+</p>
 
 <p align="center">
+  <strong>Thanks for visiting!</strong><br/>
   Made with ❤️ by <strong>Karim Mustafa</strong> • Keep pushing pixels & shipping code 🚀
 </p>
 
