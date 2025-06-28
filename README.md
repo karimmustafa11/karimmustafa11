@@ -5,8 +5,9 @@
 </h1>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJjd2V0Z3d0MHZiajVvYjlrMjRtZmFuanl5N3B1Y2Q3bXF6dW40OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ix6PvFvH0VGKlONCOu/giphy.gif" width="300" alt="Coding Gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJjd2V0Z3d0MHZiajVvYjlrMjRtZmFuanl5N3B1Y2Q3bXF6dW40OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ix6PvFvH0VGKlONCOu/giphy.gif" width="220" alt="Dev Rage Fun GIF" />
 </div>
+
 
 <!-- 👾 ABOUT ME -->
 <div align="center">
