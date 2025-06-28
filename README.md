@@ -38,10 +38,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Karim%20Mustafa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/karimmustafa11" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-karimmustafa11-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
 </div>
 
 <!-- 🧠 SKILLS -->
