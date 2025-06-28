@@ -138,24 +138,23 @@
 </div>
 
 ---
-
 <!-- 🚀 End Banner Section -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far!+You're+awesome+%F0%9F%91%8C;Stay+curious+.+Keep+building+.+Never+settle+%F0%9F%9A%80" alt="Thanks Typing" />
+<!-- Typing Thank You -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFCC&center=true&vCenter=true&width=700&lines=Thanks+for+scrolling+this+far!+You're+awesome+%F0%9F%91%8C;Stay+curious+.+Keep+building+.+Never+settle+%F0%9F%9A%80" alt="Thanks Typing" />
 
-<br/><br/>
+<!-- Footer Capsule with New Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00ffe0,9333ea,3b82f6&height=120&section=footer&text=See+You+Around!&fontColor=ffffff&fontSize=28&animation=twinkling" alt="Soft Footer" />
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0f172a&height=150&section=footer&text=See+You+Around!&fontColor=ffffff&fontSize=30&animation=twinkling" alt="Soft Footer" />
-
-<br/>
-
-<p>
+<!-- Signature -->
+<p style="margin-top: -10px;">
   <strong>👑 Made with zero sleep & 100% caffeine by <span style="color:#00ffe0">Karim Mustafa</span> ⚡</strong><br/>
   <em>Follow your code, and it will follow your dream 🌌</em>
 </p>
 
 </div>
+
 
 
 
