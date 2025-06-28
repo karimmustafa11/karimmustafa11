@@ -113,7 +113,6 @@
 </td>
 </tr></table>
 </div>
-
 <div align="center">
 
 ## 📊 GitHub Stats – Fueled by 🔥 & ☕️
@@ -123,16 +122,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=karimmustafa11&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=12&custom_title=Karim%20Mustafa's%20GitHub%20Stats" alt="GitHub Stats" />
 </a>
 
-<!-- Spacer -->
-<br><br>
-
 <!-- GitHub Streak -->
 <a href="https://github.com/karimmustafa11">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karimmustafa11&theme=tokyonight&border_radius=12&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </a>
-
-<!-- Spacer -->
-<br><br>
 
 <!-- Most Used Languages -->
 <a href="https://github.com/karimmustafa11">
@@ -140,10 +133,20 @@
 </a>
 
 <!-- Vibes Quote -->
-<br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Consistency+is+key+%F0%9F%94%91;Code.+Commit.+Repeat.+%F0%9F%9A%80" alt="Typing Vibe" />
 
 </div>
+
+---
+
+<!-- 🔻 Footer Section -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer" alt="footer" />
+</div>
+
+<p align="center">
+  Made with ❤️ by <strong>Karim Mustafa</strong> • Keep pushing pixels & shipping code 🚀
+</p>
 
 
 
