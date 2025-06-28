@@ -112,6 +112,29 @@
 </a>
 </td>
 </tr></table>
+</div>
 
+
+<div align="center">
+
+## 📊 GitHub Stats – Powered by caffeine ☕
+
+<a href="https://github.com/karimmustafa11">
+  <img src="https://github-readme-stats.vercel.app/api?username=karimmustafa11&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=12&custom_title=Karim%20Mustafa's%20GitHub%20Stats" alt="GitHub Stats" />
+</a>
+
+<br/>
+
+<a href="https://github.com/karimmustafa11">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=karimmustafa11&theme=tokyonight&border_radius=12" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/karimmustafa11">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karimmustafa11&layout=compact&theme=tokyonight&langs_count=6&border_radius=12" alt="Top Languages" />
+</a>
 
 </div>
+
+
