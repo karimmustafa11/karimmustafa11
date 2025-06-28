@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg5dzg0YXl5OW1pdnI3NWF5a291cGp0djJ6aXk5MjVzcDk4c2loaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1RkDDoIVs3ntm/giphy.gif" width="300" alt="Dev Rage Fun GIF" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN3bG01bTQ5NHI4b2xnbHh0amtyMHM3ZXRmem5nbHM0cTBmNmFiOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xizNJEhifl5Qc/giphy.gif" width="300" alt="Dev Rage Fun GIF" />
 </div>
 
 
